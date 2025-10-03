@@ -1,0 +1,13 @@
+pandas
+numpy
+pyarrow
+matplotlib
+scipy
+statsmodels
+scikit-learn
+xgboost
+pyyaml
+jupyter
+nbconvert
+pre-commit
+dvc[gdrive]
